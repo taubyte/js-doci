@@ -8,7 +8,7 @@
     "build": "webpack --mode=production",
     "doc": "jsdoc src -d docs"
   },
-  "repository": "git@bitbucket.org:taubyte/js-doci.git",
+  "repository": "git@github.com:taubyte/js-doci.git",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.3.4",
